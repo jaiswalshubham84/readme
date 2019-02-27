@@ -82,12 +82,12 @@ A new Flutter project.
 </table>
 <br></br>
 
-<div style="width:500px;"><img src="gifs/simple_carousel.gif" width="250" height="450" /></div>
-<span><img src="gifs/slide_swipe.gif" width="250" height="450" /></span>
-<span><img src="gifs/x_rotating.gif" width="250" height="450" /></span>
-<span><img src="gifs/y_rotating.gif" width="250" height="450" /></span>
-<span><img src="gifs/z_rotating.gif" width="250" height="450" /></span>
-<span><img src="gifs/multi_rotating.gif" width="250" height="450" /></span>
+<div style="width:320px;display:block"><img src="gifs/simple_carousel.gif" width="250" height="450" /></div>
+<div style="width:320px;display:block"><img src="gifs/slide_swipe.gif" width="250" height="450" /></div>
+<div style="width:320px;display:block"><img src="gifs/x_rotating.gif" width="250" height="450" /></div>
+<div style="width:320px;display:block"><img src="gifs/y_rotating.gif" width="250" height="450" /></div>
+<div style="width:320px;display:block"><img src="gifs/z_rotating.gif" width="250" height="450" /></div>
+<div style="width:320px;display:block"><img src="gifs/multi_rotating.gif" width="250" height="450" /></div>
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
