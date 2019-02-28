@@ -12,14 +12,14 @@ A new Flutter project.
         <td>Defines height of carousel.This field is required</td>
     </tr>
        <tr>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
         </tr>
-        <tr>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
-            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+      <tr>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
         </tr>
     </table>
 
