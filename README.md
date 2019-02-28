@@ -4,25 +4,6 @@ A new Flutter project.
 
 ## Getting Startedslide
 
-  <table style="width:100%">
-    <tr>
-        <td>height</td>
-        <td>Double</td>
-        <td>null</td>
-        <td>Defines height of carousel.This field is required</td>
-    </tr>
-       <tr>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        </tr>
-      <tr>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-            <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        </tr>
-    </table>
-
 <table style="width:100%">
     <tr>
         <th>Properties</th>
@@ -100,6 +81,19 @@ A new Flutter project.
     </tr>
 </table>
 <br></br>
+
+  <table style="width:100%">
+       <tr>
+            <td><img src="gifs/simple_carousel.gif" width="250" height="450" /></td>
+            <td><img src="gifs/slide_swipe.gif" width="250" height="450" /></td>
+            <td><img src="gifs/x_rotating.gif" width="250" height="450" /></td>
+        </tr>
+      <tr>
+            <td><img src="gifs/y_rotating.gif" width="250" height="450" /></td>
+            <td><img src="gifs/z_rotating.gif" width="250" height="450" /></td>
+            <td><img src="gifs/multi_rotating.gif" width="250" height="450" /></td>
+        </tr>
+    </table>
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
