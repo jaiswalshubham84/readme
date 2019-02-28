@@ -9,6 +9,31 @@ A new Flutter project.
         <th>Properties</th>
         <th>Type</th>
         <th>Default Value</th>
+     
+    </tr>
+  
+     <tr>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        
+    </tr>
+    
+     <tr>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        
+    </tr>
+
+</table>
+
+
+<table style="width:100%">
+    <tr>
+        <th>Properties</th>
+        <th>Type</th>
+        <th>Default Value</th>
         <th>Description</th>
     </tr>
     <tr>
@@ -82,29 +107,6 @@ A new Flutter project.
 </table>
 <br></br>
 
-<table style="width:100%">
-    <tr>
-        <th>Properties</th>
-        <th>Type</th>
-        <th>Default Value</th>
-     
-    </tr>
-  
-     <tr>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        
-    </tr>
-    
-     <tr>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        
-    </tr>
-
-</table>
 
 
 
