@@ -82,9 +82,9 @@ A new Flutter project.
 </table>
 <br></br>
 
-Monthly Calender           |  Weekly Calender
-:-------------------------:|:-------------------------:
-![Shot1]gifs/simple_carousel.gif  |  ![Shot2]gifs/simple_carousel.gif
+|                        Monthly Calender                         | Weekly Calender                                                 | Weekly Calender                                                 |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------- | --------------------------------------------------------------- |
+| <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> |
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
