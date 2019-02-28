@@ -82,19 +82,9 @@ A new Flutter project.
 </table>
 <br></br>
 
- Simple Carousel           |    efwefwefwef            | fewfgergerg
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="gifs/simple_carousel.gif" width="250" height="450" /> |
-<img src="gifs/slide_swipe.gif" width="250" height="450" /> |
-<img src="gifs/x_rotating.gif" width="250" height="450" />
-
-                           |                           |
-<!-- 
-:-------------------------:|:-------------------------:|:-------------------------:
-
-<img src="gifs/y_rotating.gif" width="250" height="450" /> |
-<img src="gifs/z_rotating.gif" width="250" height="450" /> |
-<img src="gifs/multi_rotating.gif" width="250" height="450" /> | -->
+Monthly Calender           |  Weekly Calender
+:-------------------------:|:-------------------------:
+![Shot1]gifs/simple_carousel.gif  |  ![Shot2]gifs/simple_carousel.gif
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
