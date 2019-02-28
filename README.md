@@ -4,30 +4,24 @@ A new Flutter project.
 
 ## Getting Startedslide
 
-<table style="width:100%">
+  <table style="width:100%">
     <tr>
-        <th>Properties</th>
-        <th>Type</th>
-        <th>Default Value</th>
-     
+        <td>height</td>
+        <td>Double</td>
+        <td>null</td>
+        <td>Defines height of carousel.This field is required</td>
     </tr>
-  
-     <tr>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        
-    </tr>
-    
-     <tr>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        
-    </tr>
-
-</table>
-
+       <tr>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+        </tr>
+        <tr>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+            <td><span>img src="gifs/simple_carousel.gif" width="150" height="450" /></span>span></td>
+        </tr>
+    </table>
 
 <table style="width:100%">
     <tr>
@@ -106,10 +100,6 @@ A new Flutter project.
     </tr>
 </table>
 <br></br>
-
-
-
-
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
