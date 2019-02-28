@@ -1,6 +1,41 @@
-# carosel
+# Flutter_Carosel
 
-A new Flutter project.
+A simple Carousel Widget with multiple configuration option.
+
+```yaml
+...
+dependencies:
+ ...
+ carousel: ^0.1.0
+...
+```
+
+And install it using `flutter packages get` on your project folder. After that, just import the module and use it:
+
+```dart
+import 'package:carousel/carousel.dart';
+
+Carousel(
+              height: 350.0,
+              width: 350,
+              type: "simple",
+              indicatorType: "bubble",
+              arrowColor: Colors.white,
+              axis: axis,
+              showArrow: true,
+              children: List.generate(
+                  7,
+                  (i) => Center(
+                          child: Container(
+                              decoration: BoxDecoration(
+                        image: new DecorationImage(
+                          image: new AssetImage(assetList[i]),
+                          fit: BoxFit.cover,
+                        ),
+                      )))),
+            )
+
+```
 
 ## Getting Startedslide
 
@@ -22,6 +57,12 @@ A new Flutter project.
         <td>Double</td>
         <td>null</td>
         <td>Defines width of carousel. This field is required</td>
+    </tr>
+     <tr>
+        <td>axis</td>
+        <td>Axis</td>
+        <td>Axis.horizontal</td>
+        <td>Defines axis of carousel.</td>
     </tr>
     <tr>
         <td>type</td>
@@ -47,7 +88,7 @@ A new Flutter project.
         <td>showIndicator</td>
         <td>Bool</td>
         <td>true</td>
-        <td>choice to show indicator in carousel</td>
+        <td>Choice to show indicator in carousel</td>
     </tr>
     <tr>
         <td>indicatorType</td>
