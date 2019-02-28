@@ -84,27 +84,29 @@ A new Flutter project.
 
 <table style="width:100%">
     <tr>
-        <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-           <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-
-
+        <th>Properties</th>
+        <th>Type</th>
+        <th>Default Value</th>
+     
     </tr>
-    <tr>
-        <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-           <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-        <td><img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
-
-
+  
+     <tr>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        
+    </tr>
+    
+     <tr>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        <td>img src="gifs/simple_carousel.gif" width="150" height="450" /></td>
+        
     </tr>
 
 </table>
 
-<!-- |                        Monthly Calender                         | Weekly Calender                                                 | Weekly Calender                                                 |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> |
 
-| <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | -->
 
 
 For help getting started with Flutter, view our online
