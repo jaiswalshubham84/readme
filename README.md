@@ -85,7 +85,7 @@ A new Flutter project.
 |                        Monthly Calender                         | Weekly Calender                                                 | Weekly Calender                                                 |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------- | --------------------------------------------------------------- |
 | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------- | --------------------------------------------------------------- |
+
 | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> | <img src="gifs/simple_carousel.gif" width="150" height="450" /> |
 
 
