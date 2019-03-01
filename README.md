@@ -123,7 +123,10 @@ Carousel(
     </tr>
 </table>
 <br></br>
-![](https://github.com/GeekyAnts/flutter-carousel/blob/master/gifs/simple_carousel.gif) | ![](https://github.com/GeekyAnts/flutter-carousel/blob/master/gifs/simple_carousel.gif)
+
+| ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) | ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) |
+| :----------------------------------------------------- | :----------------------------------------------------- |
+| ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) | ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) |
 
   <!-- <table style="width:100%">
        <tr>
