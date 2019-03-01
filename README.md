@@ -123,8 +123,9 @@ Carousel(
     </tr>
 </table>
 <br></br>
+![](https://github.com/GeekyAnts/flutter-carousel/blob/master/gifs/simple_carousel.gif) | ![](https://github.com/GeekyAnts/flutter-carousel/blob/master/gifs/simple_carousel.gif)
 
-  <table style="width:100%">
+  <!-- <table style="width:100%">
        <tr>
             <td><img src="gifs/simple_carousel.gif"  height="450" /></td>
             <td><img src="gifs/slide_swipe.gif"  height="450" /></td>
@@ -135,7 +136,7 @@ Carousel(
             <td><img src="gifs/z_rotating.gif"  height="450" /></td>
             <td><img src="gifs/multi_rotating.gif"  height="450" /></td>
         </tr>
-    </table>
+    </table> -->
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
