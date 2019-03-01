@@ -124,9 +124,9 @@ Carousel(
 </table>
 <br></br>
 
-| ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) | ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) |
-| :----------------------------------------------------- | :----------------------------------------------------- |
-| ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) | ![](https://im.ezgif.com/tmp/ezgif-1-97fffd0a2dd6.gif) |
+| ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) | ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) | ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) |
+| :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) | ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) | ![](https://github.com/jaiswalshubham84/readme/blob/master/gifs/slide_swipe.gif?raw=true) |
 
   <!-- <table style="width:100%">
        <tr>
