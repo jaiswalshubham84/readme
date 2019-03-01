@@ -6,7 +6,7 @@ A simple Carousel Widget with multiple configuration option.
 ...
 dependencies:
  ...
- carousel: ^0.1.0
+ flutter_carousel: ^0.1.0
 ...
 ```
 
@@ -14,26 +14,27 @@ And install it using `flutter packages get` on your project folder. After that, 
 
 ```dart
 import 'package:carousel/carousel.dart';
+//...
+// make  a list of assets you want show in carousel
+ List<String> assetList = ['assets/1.jpeg','assets/2.jpeg','assets/3.jpeg','assets/4.jpeg',
+ 'assets/5.jpeg','assets/6.jpeg','assets/7.jpeg'];
+
+//...
 
 Carousel(
-              height: 350.0,
-              width: 350,
-              type: "simple",
-              indicatorType: "bubble",
-              arrowColor: Colors.white,
-              axis: axis,
-              showArrow: true,
-              children: List.generate(
-                  7,
-                  (i) => Center(
-                          child: Container(
-                              decoration: BoxDecoration(
-                        image: new DecorationImage(
-                          image: new AssetImage(assetList[i]),
-                          fit: BoxFit.cover,
-                        ),
-                      )))),
-            )
+    height: 350.0,
+    width: 350,
+    type: "simple",
+    indicatorType: "bubble",
+    arrowColor: Colors.white,
+    axis: axis,
+    showArrow: true,
+    children: List.generate(
+        7,
+         (i) => Center(
+            child: Container(
+            color:Colors.red
+            ),)))),
 
 ```
 
